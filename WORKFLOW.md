@@ -2,4 +2,6 @@
 Things that I constantly remind myself when working on projects.
 
 ## General Coding Workflow
-- https://zellwk.com/blog/think/
+- Break down the problem into smaller problems. [https://zellwk.com/blog/think/](https://zellwk.com/blog/think/)
+- Find solutions to your small problems.
+- Assemble the solutions in a coherent manner.
