@@ -10,6 +10,6 @@
 - [Rico's Cheatsheets](http://ricostacruz.com/cheatsheets/)
 
 ## Tools
-- [JPEG to Progressive JPEG](https://www.jpeg.io/)
+- [Any image format to Progressive JPEG Converter](https://www.jpeg.io/)
 
 
